@@ -7,21 +7,6 @@
 - 🤓 Always learning new things.  
 - 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1FdOBDa-ipxU7ps9AOxaFi674bw2kc2EL).  
 
-
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
-
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/Eman_Nasser">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" width="6%"/>
-  </a>
-  &emsp;
-  <a href="https://leetcode.com/u/EmanNasser/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
-  </a>
-</div>
-
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
 ### 🧠 Programming Languages
@@ -91,3 +76,14 @@
     <img alt="Flow" src="https://img.shields.io/badge/Flow-%23F57C00.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
 </p>
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<div align="center" width=100%>
+  <a href="https://codeforces.com/profile/Eman_Nasser">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" width="6%"/>
+  </a>
+  &emsp;
+  <a href="https://leetcode.com/u/EmanNasser/">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
+  </a>
+</div>
