@@ -82,13 +82,14 @@
   <strong>My Competitive Programming Profiles</strong>
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://codeforces.com/profile/Eman_Nasser" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="28px"/>
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://leetcode.com/u/EmanNasser/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="28px"/>
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black"/>
   </a>
-</div>
+</p>
+
 👈 النتيجة:
