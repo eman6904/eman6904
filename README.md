@@ -7,7 +7,7 @@
 - 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.  
 - 💻 I am a competitive programmer on platforms like `Codeforces` and `LeetCode`.  
 - 🤓 Always learning new things.  
-- 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/home).  
+- 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1FdOBDa-ipxU7ps9AOxaFi674bw2kc2EL).  
 
 <br>
 
