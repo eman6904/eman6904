@@ -82,12 +82,13 @@
   <strong>My Competitive Programming Profiles</strong>
 </p>
 
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/Eman_Nasser">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" width="4%"/>
+<p align="center">
+  <a href="https://codeforces.com/profile/Eman_Nasser" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
   &emsp;
-  <a href="https://leetcode.com/u/EmanNasser/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="4%"/>
+  <a href="https://leetcode.com/u/EmanNasser/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-</div>
+</p>
+👈 النتيجة:
