@@ -84,10 +84,10 @@
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/Eman_Nasser">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" width="6%"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" width="4%"/>
   </a>
   &emsp;
   <a href="https://leetcode.com/u/EmanNasser/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="4%"/>
   </a>
 </div>
