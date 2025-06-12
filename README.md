@@ -91,5 +91,3 @@
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
-👈 النتيجة:
