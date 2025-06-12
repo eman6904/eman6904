@@ -76,7 +76,11 @@
     <img alt="Flow" src="https://img.shields.io/badge/Flow-%23F57C00.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
 </p>
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<p align="left">
+  <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="40">
+  <strong>My Competitive Programming Profiles</strong>
+</p>
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/Eman_Nasser">
