@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eman!
 
-- 🧑‍🎓 I'm a **junior Android developer**, graduated from the **Faculty of Artificial Intelligence**, majoring in **Computer Science**.  
+- 🧑‍🎓 I'm a **junior Android developer**, graduated from the **Faculty of Computers and Artificial Intelligence**, majoring in **Computer Science**.  
 - 🧑‍🏫 I’m also a **programming instructor** for different age groups.  
 - 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.  
 - 💻 I am a competitive programmer on platforms like `Codeforces` and `LeetCode`.  
