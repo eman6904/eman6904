@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eman!
 
-- 🧑‍🎓 I'm a **junior Android developer**, graduated from the **Faculty of Computers and Artificial Intelligence**,
+- 🧑‍🎓 I'm a **junior Android developer**, graduated from the **Faculty of Computers and Artificial Intelligence**,  
    majoring in **Computer Science**.  
 - 🧑‍🏫 I’m also a **programming instructor** for different age groups.  
 - 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.  
@@ -9,6 +9,19 @@
 - 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1FdOBDa-ipxU7ps9AOxaFi674bw2kc2EL).  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
+
+### 🏗️ Computer Science Fundamentals
+
+<p align="center"> 
+  <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=plastic&logo=hackerrank&logoColor=white">
+  &emsp;
+   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-%230095D5.svg?style=plastic&logo=thealgorithms&logoColor=white">
+  &emsp;
+  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-%23FF6F00.svg?style=plastic&logo=leetcode&logoColor=white">
+   &emsp;
+   <img alt="OOP" src="https://img.shields.io/badge/OOP-%23323330.svg?style=plastic&logo=google&logoColor=white">
+  
+</p>
 
 ### 🧠 Programming Languages
 
@@ -77,6 +90,18 @@
     <img alt="Flow" src="https://img.shields.io/badge/Flow-%23F57C00.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
 </p>
+
+### 🌟 Soft Skills
+
+<p align="center">
+  <img alt="Teamwork" src="https://img.shields.io/badge/Teamwork-%2300ACC1.svg?style=plastic&logo=teamviewer&logoColor=white">
+  &emsp;
+  <img alt="Communication" src="https://img.shields.io/badge/Communication-%23FF4081.svg?style=plastic&logo=googlechat&logoColor=white">
+  &emsp;
+  <img alt="Teaching" src="https://img.shields.io/badge/Teaching-%23F9A825.svg?style=plastic&logo=googleclassroom&logoColor=white">
+</p>
+
+---
 
 <p align="left">
   <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="40">
