@@ -2,9 +2,9 @@
 
 - 🧑‍🎓 I'm a **junior Android developer**, graduated from the **Faculty of Computers and Artificial Intelligence**,  
    majoring in **Computer Science**.  
-- 🧑‍🏫 I’m also a **programming instructor** for different age groups.  
-- 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.  
-- 💻 I am a competitive programmer on platforms like `Codeforces` and `LeetCode`.  
+- 🧑‍🏫 I’m also a **programming instructor** for different age groups.
+- 💻 I am a competitive programmer on platforms like `Codeforces` and `LeetCode`. 
+- 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.    
 - 🤓 Always learning new things.  
 - 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1FdOBDa-ipxU7ps9AOxaFi674bw2kc2EL).  
 
