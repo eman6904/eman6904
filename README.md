@@ -7,7 +7,7 @@
 - 💻 Competitive programmer on platforms like `Codeforces` and `LeetCode`.
 - 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.
 - 🤓 Always learning new things.  
-- 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1FdOBDa-ipxU7ps9AOxaFi674bw2kc2EL).  
+- 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_WkIK3uMfecUOtnbGDGexKgJPijLGR4Z).  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
