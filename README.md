@@ -1,27 +1,27 @@
 # 👋 Hello, I'm Eman!
 
-- 🧑‍🎓 Junior Android developer, graduated from the **Faculty of Computers and Artificial Intelligence**, majoring in **Computer Science**.
+- 💼 **Android Developer** with **over a year of professional experience**, building and shipping production apps on **Google Play** (real estate, services, and classifieds marketplaces).
+- 🧑‍🎓 Graduated from the **Faculty of Computers and Artificial Intelligence**, majoring in **Computer Science**.
 - 👩‍💻 Contributed as a **mentor** at **ICPC Sohag** for **2 years**.
 - 🌐 Contributed as a **core member** of **GDSC Sohag** as an **Android developer** for **2 years**.
 - 🧑‍🏫 Programming instructor for different age groups.
 - 💻 Competitive programmer on platforms like `Codeforces` and `LeetCode`.
 - 🏆 Ranked **32nd** in the **2023 ICPC ECPC Qualifications Collegiate** and **5th** in Sohag.
-- 🤓 Always learning new things.  
-- 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_WkIK3uMfecUOtnbGDGexKgJPijLGR4Z).  
+- 🤓 Always learning new things.
+- 🤔 This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_WkIK3uMfecUOtnbGDGexKgJPijLGR4Z).
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
 ### 🏗️ Computer Science Fundamentals
 
-<p align="center"> 
+<p align="center">
   <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=plastic&logo=hackerrank&logoColor=white">
   &emsp;
-   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-%230095D5.svg?style=plastic&logo=thealgorithms&logoColor=white">
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-%230095D5.svg?style=plastic&logo=thealgorithms&logoColor=white">
   &emsp;
   <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-%23FF6F00.svg?style=plastic&logo=leetcode&logoColor=white">
-   &emsp;
-   <img alt="OOP" src="https://img.shields.io/badge/OOP-%23323330.svg?style=plastic&logo=google&logoColor=white">
-  
+  &emsp;
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-%23323330.svg?style=plastic&logo=google&logoColor=white">
 </p>
 
 ### 🧠 Programming Languages
@@ -36,7 +36,7 @@
   </a>
   &emsp;
   <a href="https://kotlinlang.org/" target="_blank">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.java.com/" target="_blank">
@@ -50,7 +50,7 @@
 
 ### 📱 Android Development
 
-<p align="center"> 
+<p align="center">
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
     <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-%23009688.svg?style=plastic&logo=android&logoColor=white">
   </a>
@@ -62,44 +62,59 @@
 
 ### 🔧 Android Tools & Architecture Components
 
-<p align="center"> 
-  <a href="https://developer.android.com/topic/libraries/architecture/viewmodel" target="_blank"> 
+<p align="center">
+  <a href="https://developer.android.com/topic/libraries/architecture/viewmodel" target="_blank">
     <img alt="ViewModel" src="https://img.shields.io/badge/ViewModel-%233DDC84.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.android.com/topic/libraries/architecture/livedata" target="_blank"> 
+  <a href="https://developer.android.com/topic/libraries/architecture/livedata" target="_blank">
     <img alt="LiveData" src="https://img.shields.io/badge/LiveData-%2300C853.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.android.com/topic/libraries/architecture/room" target="_blank"> 
+  <a href="https://developer.android.com/topic/libraries/architecture/room" target="_blank">
     <img alt="Room" src="https://img.shields.io/badge/Room-%23EF6C00.svg?style=plastic&logo=sqlite&logoColor=white">
   </a>
   &emsp;
-  <a href="https://square.github.io/retrofit/" target="_blank"> 
+  <a href="https://developer.android.com/topic/libraries/architecture/datastore" target="_blank">
+    <img alt="DataStore" src="https://img.shields.io/badge/DataStore-%234285F4.svg?style=plastic&logo=android&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://square.github.io/retrofit/" target="_blank">
     <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
-   <a href="https://square.github.io/ktor/" target="_blank"> 
-    <img alt="Ktor" src="https://img.shields.io/badge/Ktor-%232196F3.svg?style=plastic&logo=android&logoColor=white">
+  <a href="https://ktor.io/" target="_blank">
+    <img alt="Ktor" src="https://img.shields.io/badge/Ktor-%23087CFA.svg?style=plastic&logo=ktor&logoColor=white">
   </a>
   &emsp;
-   <a href="https://square.github.io/retrofit/" target="_blank"> 
-    <img alt="Koin" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
+  <a href="https://developer.android.com/training/dependency-injection/hilt-android" target="_blank">
+    <img alt="Hilt" src="https://img.shields.io/badge/Hilt-%2300BFA5.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
-  <a href="https://firebase.google.com/" target="_blank"> 
+  <a href="https://dagger.dev/" target="_blank">
+    <img alt="Dagger2" src="https://img.shields.io/badge/Dagger2-%23E53935.svg?style=plastic&logo=android&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://insert-koin.io/" target="_blank">
+    <img alt="Koin" src="https://img.shields.io/badge/Koin-%23F68B1F.svg?style=plastic&logo=kotlin&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
   </a>
   &emsp;
-  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank"> 
+  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank">
     <img alt="Coroutines" src="https://img.shields.io/badge/Coroutines-%23009688.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.android.com/kotlin/flow" target="_blank"> 
+  <a href="https://developer.android.com/kotlin/flow" target="_blank">
     <img alt="Flow" src="https://img.shields.io/badge/Flow-%23F57C00.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://play.google.com/console" target="_blank">
+    <img alt="Google Play Console" src="https://img.shields.io/badge/Google%20Play%20Console-%2334A853.svg?style=plastic&logo=googleplay&logoColor=white">
+  </a>
 </p>
-
 ### 🌟 Soft Skills
 
 <p align="center">
