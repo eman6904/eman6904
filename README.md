@@ -79,6 +79,14 @@
     <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
+   <a href="https://square.github.io/retrofit/" target="_blank"> 
+    <img alt="Ktor" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://square.github.io/retrofit/" target="_blank"> 
+    <img alt="Koin" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://firebase.google.com/" target="_blank"> 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
   </a>
