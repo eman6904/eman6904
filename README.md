@@ -79,8 +79,8 @@
     <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
-   <a href="https://square.github.io/retrofit/" target="_blank"> 
-    <img alt="Ktor" src="https://img.shields.io/badge/Retrofit-%232196F3.svg?style=plastic&logo=android&logoColor=white">
+   <a href="https://square.github.io/ktor/" target="_blank"> 
+    <img alt="Ktor" src="https://img.shields.io/badge/Ktor-%232196F3.svg?style=plastic&logo=android&logoColor=white">
   </a>
   &emsp;
    <a href="https://square.github.io/retrofit/" target="_blank"> 
